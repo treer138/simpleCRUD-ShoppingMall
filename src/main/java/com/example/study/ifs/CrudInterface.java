@@ -10,7 +10,7 @@ import java.util.List;
 
 public interface CrudInterface<Req, Res> {
 
-    Header<Res> create(Header<Req> request); //todo request object 추가
+    Header<Res> create(Header<Req> request);
 
     Header<Res> read(Long id);
 
