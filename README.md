@@ -15,7 +15,7 @@ SIMPLE CURD STUDY ver.shpping mall(shadow)
 
 ### 사용 기술
 
--JAVA, SPRING, SPRING BOOT, MySQL
+-JAVA, SPRING, SPRING BOOT, Oracle
 -Lombok, junit5, gradle
 -JDBC, Hibernate
 
