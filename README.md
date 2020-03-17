@@ -15,9 +15,7 @@ SIMPLE CURD STUDY ver.shpping mall(shadow)
 
 ### 사용 기술
 
--JAVA, SPRING, SPRING BOOT, Oracle
--Lombok, junit5, gradle
--JDBC, Hibernate
+-Java, SPRING, SPRING BOOT, Oracle, Lombok, junit5, gradle, JDBC, Hibernate
 
 ### 형상관리
 
